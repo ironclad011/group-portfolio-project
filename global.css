@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --h2: Rubik;
+  --font-baloo-bhai-2: "Baloo Bhai 2";
+  --font-arimo: Arimo;
+  --font-ruda: Ruda;
+  --font-ribeye: Ribeye;
+  --font-baloo-paaji-2: "Baloo Paaji 2";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-lg: 18px;
+  --h2-size: 72px;
+  --font-size-24xl: 43px;
+  --font-size-39xl: 58px;
+  --h1-size: 96px;
+  --font-size-10xl: 29px;
+  --font-size-29xl: 48px;
+  --font-size-9xl: 28px;
+  --font-size-3xl: 22px;
+  --font-size-19xl: 38px;
+  --font-size-13xl: 32px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-gray-100: #878787;
+  --text-gray-900: #18191f;
+  --color-gray-200: #1a191a;
+  --color-gray-300: rgba(255, 255, 255, 0.3);
+  --color-gray-400: rgba(255, 255, 255, 0.29);
+  --color-gray-500: rgba(0, 0, 0, 0.8);
+  --color-gray-600: rgba(255, 255, 255, 0);
+  --wei: #fff;
+  --color-tomato-100: #ff6333;
+  --color-darkgray-100: #a5a5a5;
+  --color-dimgray: #747474;
+
+  /* Gaps */
+  --gap-mini: 15px;
+  --gap-12xl: 31px;
+  --gap-xl: 20px;
+  --gap-5xl: 24px;
+  --gap-28xl: 47px;
+  --gap-mid: 17px;
+  --gap-2xs: 11px;
+  --gap-5xs: 8px;
+  --gap-10xs: 3px;
+  --gap-3xl: 22px;
+  --gap-8xl: 27px;
+  --gap-39xl: 58px;
+  --gap-10xl: 29px;
+  --gap-22xl: 41px;
+  --gap-16xl: 35px;
+  --gap-63xl: 82px;
+  --gap-4xs: 9px;
+  --gap-3xs: 10px;
+  --gap-lg: 18px;
+  --gap-21xl: 40px;
+
+  /* Paddings */
+  --padding-58xl: 77px;
+  --padding-128xl: 147px;
+  --padding-61xl: 80px;
+  --padding-xl: 20px;
+  --padding-33xl: 52px;
+  --padding-54xl: 73px;
+  --padding-11xs: 2px;
+  --padding-194xl: 213px;
+  --padding-99xl: 118px;
+  --padding-87xl: 106px;
+  --padding-34xl: 53px;
+  --padding-12xs: 1px;
+  --padding-5xs: 8px;
+  --padding-10xs-5: 2.5px;
+  --padding-2xs: 11px;
+  --padding-3xs: 10px;
+  --padding-16xl: 35px;
+  --padding-183xl: 202px;
+  --padding-102xl: 121px;
+  --padding-112xl: 131px;
+  --padding-66xl: 85px;
+  --padding-32xl: 51px;
+  --padding-6xs-5: 6.5px;
+  --padding-69xl: 88px;
+  --padding-20xl: 39px;
+  --padding-223xl: 242px;
+  --padding-77xl: 96px;
+  --padding-6xl: 25px;
+  --padding-138xl: 157px;
+  --padding-14xl: 33px;
+  --padding-2xl: 21px;
+  --padding-6xs: 7px;
+  --padding-47xl: 66px;
+  --padding-xs-5: 11.5px;
+
+  /* Border radiuses */
+  --br-22xl: 41px;
+  --br-3981xl: 4000px;
+
+  /* Effects */
+  --shadow: drop-shadow(0px 0px 100px rgba(0, 0, 0, 0.2));
+}
